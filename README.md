@@ -8,6 +8,7 @@ A modern, dark-themed desktop To-Do List application built with **CustomTkinter*
 Yasir Shaikh
 
 🌐 GitHub: https://github.com/YasirShaikh03
+
 💻 Passionate about building real-world projects and improving problem-solving skills
 ⭐ Support
 
@@ -61,5 +62,6 @@ todo_app/
 Yasir Shaikh
 
 🌐 GitHub: https://github.com/YasirShaikh03
+
 💻 Passionate about building real-world projects and improving problem-solving skills
 ⭐ Support
